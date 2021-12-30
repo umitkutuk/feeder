@@ -1,0 +1,15 @@
+{
+    "name": "umitkutuk/feeder",
+    "authors": [
+        {
+            "name": "umitkutuk",
+            "email": "umit.kutuk01@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Feeder\\": "src/"
+        }
+    }
+}
