@@ -6,10 +6,12 @@
             "email": "umit.kutuk01@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+      "ext-json": "*"
+    },
     "autoload": {
         "psr-4": {
-            "Feeder\\": "src/"
+            "Feeder\\": "src"
         }
     }
 }

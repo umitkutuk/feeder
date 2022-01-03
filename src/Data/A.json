@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "NAME": "Product 1",
+        "PRICE": 1.00,
+        "CATEGORY": "Electronic"
+    },
+    {
+        "ID": 2,
+        "NAME": "Product 2",
+        "PRICE": 2.00,
+        "CATEGORY": "Fashion"
+    },
+    {
+        "ID": 3,
+        "NAME": "Product 3",
+        "PRICE": 3.00,
+        "CATEGORY": "Home Decor"
+    },
+    {
+        "ID": 4,
+        "NAME": "Product 4",
+        "PRICE": 4.00,
+        "CATEGORY": "Electronic"
+    },
+    {
+        "ID": 5,
+        "NAME": "Product 5",
+        "PRICE": 5.00,
+        "CATEGORY": "Fashion"
+    },
+    {
+        "ID": 6,
+        "NAME": "Product 6",
+        "PRICE": 6.00,
+        "CATEGORY": "Home Decor"
+    },
+    {
+        "ID": 7,
+        "NAME": "Product 7",
+        "PRICE": 7.00,
+        "CATEGORY": "Electronic"
+    },
+    {
+        "ID": 8,
+        "NAME": "Product 8",
+        "PRICE": 8.00,
+        "CATEGORY": "Fashion"
+    },
+    {
+        "ID": 9,
+        "NAME": "Product 9",
+        "PRICE": 9.00,
+        "CATEGORY": "Home Decor"
+    },
+    {
+        "ID": 10,
+        "NAME": "Product 10",
+        "PRICE": 10.00,
+        "CATEGORY": "Electronic"
+    }
+]
